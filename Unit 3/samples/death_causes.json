@@ -1,0 +1,32 @@
+[
+	{
+		"State": "AZ",
+		"Population": 122931,
+		"Deaths per quarter": [
+			{
+				"Quater ending": "6/30/1907",
+				"Deaths": {
+					"diphtheria": 1,
+					"enteric fever": 4,
+					"scarlet fever": 11,
+					"smallpox": 2
+				}
+			}
+		]
+	},
+	{
+		"State": "CA",
+		"Population": 2054000,
+		"Deaths per quarter": [
+			{
+				"Quater ending": "6/30/1907",
+				"Deaths": {
+					"diphtheria": 19,
+					"enteric fever": 18,
+					"scarlet fever": 1,
+					"smallpox": 0
+				}
+			}
+		]
+	}
+]
