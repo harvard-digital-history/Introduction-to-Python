@@ -11,7 +11,7 @@ The workshop takes a hands-on approach that encourages interactive exploration, 
 
 ## Workshop Plan
 
-<details>
+<details open>
 <summary><h3>Getting Started</h3></summary>
 
 Getting set up for the workshop should be fairly simple, you will need a working installation of Python on your computer and a basic knowledge of how [Jupyter notebooks](https://jupyterlab.readthedocs.io/en/latest/user/notebook.html) work.
@@ -20,7 +20,7 @@ Getting set up for the workshop should be fairly simple, you will need a working
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Unit 1: Variables and Data Structures</h3></summary>
 
 This unit covers the fundamentals of working with variables, data types, and operators. It also
@@ -32,7 +32,7 @@ includes a practicum on basic techniques for string manipulation.
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Unit 2: Control Flow and Syntax</h3></summary>
 
 This unit shows participants how to use different types of loops and conditional statements to iterate across datasets and execute different blocks of code depending on pre-set conditions. It also covers the essentials of Python syntax.
@@ -42,7 +42,7 @@ This unit shows participants how to use different types of loops and conditional
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Unit 3: Reuse, Modularity, and External Resources</h3></summary>
 
 This unit covers code reusability through the use of functions, classes, and objects, as well as the principles of code organisation into modules and packages. Participants will learn how to build their own functions as well as how to take advantage of built-in and external modules and packages. It also shows how to interact with external data sources (e.g. text files, spreadsheets, etc.).
@@ -52,7 +52,7 @@ This unit covers code reusability through the use of functions, classes, and obj
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Unit 4: Advanced Coding</h3></summary>
 
 This unit covers advanced Python concepts and patterns to help participants develop a structured and organized approach to solving complex problems by breaking them down into smaller, more manageable pieces, and develop algorithms to solve them with clean, modular, and reusable code. It includes a practicum focused on optimization techniques to make code run faster and more efficiently, and how to identify and eliminate performance bottlenecks and write code that is more scalable and responsive.
@@ -64,7 +64,7 @@ This unit covers advanced Python concepts and patterns to help participants deve
 
 </details>
 
-<details>
+<details open>
 <summary><h3>Unit 5: Coding Samples</h3></summary>
 
 The notebooks in this unit contain examples of code used across a wide range of common real-world research problems. Some focus on general purpose applications, while others rely on highly specialized libraries and require a certain amount of subject expertise in the relevant area.
