@@ -15,10 +15,16 @@ The workshop takes a hands-on approach that encourages interactive exploration, 
 > Getting Started
 > Getting set up for the workshop should be fairly simple, you will need a working installation of Python on your computer and a basic knowledge of how Jupyter notebooks work.
 
+> [!something]
+> Instructions
+> Unit 1: Variables and Data Structures
 
-Instructions
-Unit 1: Variables and Data Structures
-This unit covers the fundamentals of working with variables, data types, and operators. It also introduces participants to Python’s basic data structures, such as lists, and dictionaries, and includes a practicum on basic techniques for string manipulation.
+
+> This unit covers the fundamentals of working with variables, data types, and operators. It also
+> introduces participants to Python’s basic data structures, such as lists, and dictionaries, and
+> includes a practicum on basic techniques for string manipulation.
+
+
 Notebook Download Notebook
 Exercises: Variables Links to an external site. | Data Types Links to an external site. | Lists Links to an external site. | Dictionaries Links to an external site.
 Unit 2: Control Flow and Syntax
