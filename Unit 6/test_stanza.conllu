@@ -1,0 +1,42 @@
+# text = "Hello Mr. Black," J. J. said.
+# sent_id = 0
+1	"	"	PUNCT	``	_	2	punct	_	start_char=0|end_char=1
+2	Hello	hello	INTJ	UH	_	9	ccomp	_	start_char=1|end_char=6
+3	Mr.	Mr.	PROPN	NNP	Number=Sing	2	vocative	_	start_char=7|end_char=10
+4	Black	Black	PROPN	NNP	Number=Sing	3	flat	_	start_char=11|end_char=16
+5	,	,	PUNCT	,	_	9	punct	_	start_char=16|end_char=17
+6	"	"	PUNCT	''	_	9	punct	_	start_char=17|end_char=18
+7	J.	J.	PROPN	NNP	Number=Sing	9	nsubj	_	start_char=19|end_char=21
+8	J.	J.	PROPN	NNP	Number=Sing	7	flat	_	start_char=22|end_char=24
+9	said	say	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=25|end_char=29
+10	.	.	PUNCT	.	_	9	punct	_	start_char=29|end_char=30
+
+# text = "Oh, hello J.J.," mrs. smith added.
+# sent_id = 1
+1	"	"	PUNCT	``	_	4	punct	_	start_char=31|end_char=32
+2	Oh	oh	INTJ	UH	_	4	discourse	_	start_char=32|end_char=34
+3	,	,	PUNCT	,	_	4	punct	_	start_char=34|end_char=35
+4	hello	hello	INTJ	UH	_	10	ccomp	_	start_char=36|end_char=41
+5	J.J.	J.J.	PROPN	NNP	Number=Sing	4	vocative	_	start_char=42|end_char=46
+6	,	,	PUNCT	,	_	4	punct	_	start_char=46|end_char=47
+7	"	"	PUNCT	''	_	4	punct	_	start_char=47|end_char=48
+8	mrs.	mrs.	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=49|end_char=53
+9	smith	smith	PROPN	NNP	Number=Sing	8	flat	_	start_char=54|end_char=59
+10	added	add	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=60|end_char=65
+11	.	.	PUNCT	.	_	10	punct	_	start_char=65|end_char=66
+
+# text = "Q. E. D.," M. m. smith replied sadly.
+# sent_id = 2
+1	"	"	PUNCT	``	_	2	punct	_	start_char=67|end_char=68
+2	Q.	Q.	PROPN	NNP	Number=Sing	10	ccomp	_	start_char=68|end_char=70
+3	E.	E.	PROPN	NNP	Number=Sing	2	flat	_	start_char=71|end_char=73
+4	D.	D.	PROPN	NNP	Number=Sing	2	flat	_	start_char=74|end_char=76
+5	,	,	PUNCT	,	_	10	punct	_	start_char=76|end_char=77
+6	"	"	PUNCT	''	_	10	punct	_	start_char=77|end_char=78
+7	M.	M.	PROPN	NNP	Number=Sing	10	nsubj	_	start_char=79|end_char=81
+8	m.	marry	PROPN	NNP	Number=Sing	7	flat	_	start_char=82|end_char=84
+9	smith	smith	PROPN	NNP	Number=Sing	7	flat	_	start_char=85|end_char=90
+10	replied	reply	VERB	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	start_char=91|end_char=98
+11	sadly	sadly	ADV	RB	_	10	advmod	_	start_char=99|end_char=104
+12	.	.	PUNCT	.	_	10	punct	_	start_char=104|end_char=105
+

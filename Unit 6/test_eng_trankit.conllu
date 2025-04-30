@@ -1,0 +1,31 @@
+1	"	"	PUNCT	``	_	8	punct	_	_
+2	Hello	hello	INTJ	UH	_	8	ccomp	_	_
+3	Mr.	Mr.	PROPN	NNP	Number=Sing	2	vocative	_	_
+4	Black	Black	PROPN	NNP	Number=Sing	3	flat	_	_
+5	,	,	PUNCT	,	_	8	punct	_	_
+6	"	"	PUNCT	''	_	8	punct	_	_
+7	J. J.	J. J.	PROPN	NNP	Number=Sing	8	nsubj	_	_
+8	said	say	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+9	.	.	PUNCT	.	_	8	punct	_	_
+
+1	"	"	PUNCT	``	_	9	punct	_	_
+2	Oh	oh	INTJ	UH	_	4	discourse	_	_
+3	,	,	PUNCT	,	_	4	punct	_	_
+4	hello	hello	INTJ	UH	_	9	ccomp	_	_
+5	J.J.	J.J.	PROPN	NNP	Number=Sing	4	vocative	_	_
+6	,	,	PUNCT	,	_	9	punct	_	_
+7	"	"	PUNCT	''	_	9	punct	_	_
+8	mrs. smith	mrs. smith	PROPN	NNP	Number=Sing	9	nsubj	_	_
+9	added	add	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+10	.	.	PUNCT	.	_	9	punct	_	_
+
+1	"	"	PUNCT	``	_	7	punct	_	_
+2	Q. E. D.	Q. E. D.	PROPN	NNP	Number=Sing	7	ccomp	_	_
+3	,	,	PUNCT	,	_	7	punct	_	_
+4	"	"	PUNCT	''	_	7	punct	_	_
+5	M. m.	M. m.	PROPN	NNP	Number=Sing	7	nsubj	_	_
+6	smith	smith	PROPN	NNP	Number=Sing	5	flat	_	_
+7	replied	reply	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
+8	sadly	sadly	ADV	RB	_	7	advmod	_	_
+9	.	.	PUNCT	.	_	7	punct	_	_
+
